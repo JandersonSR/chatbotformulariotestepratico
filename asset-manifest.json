@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chatbotformulariotestepratico/static/css/main.26cae724.chunk.css",
+    "main.js": "/chatbotformulariotestepratico/static/js/main.dea2182b.chunk.js",
+    "main.js.map": "/chatbotformulariotestepratico/static/js/main.dea2182b.chunk.js.map",
+    "runtime-main.js": "/chatbotformulariotestepratico/static/js/runtime-main.8d19e001.js",
+    "runtime-main.js.map": "/chatbotformulariotestepratico/static/js/runtime-main.8d19e001.js.map",
+    "static/js/2.65eb0cc8.chunk.js": "/chatbotformulariotestepratico/static/js/2.65eb0cc8.chunk.js",
+    "static/js/2.65eb0cc8.chunk.js.map": "/chatbotformulariotestepratico/static/js/2.65eb0cc8.chunk.js.map",
+    "static/js/3.3c72d7ec.chunk.js": "/chatbotformulariotestepratico/static/js/3.3c72d7ec.chunk.js",
+    "static/js/3.3c72d7ec.chunk.js.map": "/chatbotformulariotestepratico/static/js/3.3c72d7ec.chunk.js.map",
+    "index.html": "/chatbotformulariotestepratico/index.html",
+    "static/css/main.26cae724.chunk.css.map": "/chatbotformulariotestepratico/static/css/main.26cae724.chunk.css.map",
+    "static/js/2.65eb0cc8.chunk.js.LICENSE.txt": "/chatbotformulariotestepratico/static/js/2.65eb0cc8.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/chatbotformulariotestepratico/static/media/helpper.9923276f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d19e001.js",
+    "static/js/2.65eb0cc8.chunk.js",
+    "static/css/main.26cae724.chunk.css",
+    "static/js/main.dea2182b.chunk.js"
+  ]
+}
