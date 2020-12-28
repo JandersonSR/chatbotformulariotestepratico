@@ -21,7 +21,6 @@ import {convertCollectionsSnapshotToMap} from './firebase';
 import {getCurrentUser} from './firebase';
 import Post from '../components/Post';
 import Contacts from '../components/Contacts';
-import firebaseDb from './firebase';
 import addOrEdit from '../components/Contacts';
 
 
